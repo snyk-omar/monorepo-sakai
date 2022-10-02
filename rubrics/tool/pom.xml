@@ -18,7 +18,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <start-class>org.sakaiproject.rubrics.RubricsApplication</start-class>
         <rest.assured.version>3.1.1</rest.assured.version>
-        <spring.boot.version>2.2.1.RELEASE</spring.boot.version>
+        <spring.boot.version>2.2.11.RELEASE</spring.boot.version>
     </properties>
 
     <dependencies>
